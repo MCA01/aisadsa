@@ -12,7 +12,7 @@ The system enhances architectural decision-making by automating the design workf
 - **User-Friendly Interface** – Built with React and React Bootstrap to provide a responsive, intuitive, and accessible interface, enabling smooth interaction on different devices.
 
 ## Technologies
-- **Backend:** Java, Spring Boot, MySQL, JWT
+- **Backend:** Java, Spring Boot, MySQL
 - **Business Logic:** Drools Rule Engine
 - **AI Integration:** Spring AI, OpenAI API (GPT-4o mini)
 - **Frontend:** React, React Bootstrap
